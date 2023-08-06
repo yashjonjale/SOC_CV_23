@@ -1,0 +1,5 @@
+# Ignore a specific file
+PerseDatasetRealCones.v1i.yolov5pytorch
+Pothole Detection.v10-v5-rotation-only.yolov5pytorch
+traffic signs.v1i.yolov5pytorch
+object_detection/yolov5/
